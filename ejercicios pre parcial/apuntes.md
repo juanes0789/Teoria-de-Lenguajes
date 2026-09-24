@@ -1,12 +1,25 @@
-# Guía del parcial: Teoría de Lenguajes en C++
+# Teoría de Lenguajes 
 
-La solución completa está en `parcial_virtual.cpp`. Compilar y ejecutar:
+
 
 ```bash
-g++ -std=c++17 parcial_virtual.cpp -o parcial && ./parcial
+g++ -std=c++17 practicav.cpp -o parcial && ./parcial
 ```
 
+
 Con la opción **8** del menú se corren las pruebas automáticas (todas deberían salir `[OK]`).
+
+Ejecucion 
+
+
+```bash
+cd "ejercicios pre parcial"
+
+g++ -std=c++17 parcial1.cpp -o parcial1 && ./parcial1
+
+g++ -std=c++17 parcial1.cpp -o parcial1 && ./parcial1
+
+```
 
 ---
 

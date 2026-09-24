@@ -8,6 +8,7 @@
 using namespace std;
 
 regex patronPalabra("^[A-Z][a-z]+[A-Z]$");
+regex patron("^[A-Za-z]+( [A-Za-z]+)*$"); 
 
 int numero;
 string palabra;
